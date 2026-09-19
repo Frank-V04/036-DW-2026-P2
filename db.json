@@ -1,0 +1,123 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Ana García",
+      "email": "ana.garcia@empresa.com",
+      "position": "Desarrolladora Frontend",
+      "department": "Tecnología",
+      "salary": 8500,
+      "hireDate": "2022-03-15",
+      "status": "active",
+      "role": "employee",
+      "avatarUrl": "https://i.pravatar.cc/64?img=1"
+    },
+    {
+      "id": 2,
+      "name": "Carlos Martínez",
+      "email": "carlos.martinez@empresa.com",
+      "position": "Gerente de RRHH",
+      "department": "Recursos Humanos",
+      "salary": 12000,
+      "hireDate": "2019-07-01",
+      "status": "active",
+      "role": "hr"
+    },
+    {
+      "id": 3,
+      "name": "María López",
+      "email": "maria.lopez@empresa.com",
+      "position": "Contadora Senior",
+      "department": "Finanzas",
+      "salary": 9500,
+      "hireDate": "2021-01-20",
+      "status": "on_leave",
+      "role": "employee"
+    },
+    {
+      "id": 4,
+      "name": "Roberto Silva",
+      "email": "roberto.silva@empresa.com",
+      "position": "Administrador del Sistema",
+      "department": "Tecnología",
+      "salary": 15000,
+      "hireDate": "2018-05-10",
+      "status": "active",
+      "role": "admin"
+    },
+    {
+      "id": 5,
+      "name": "Lucía Ramírez",
+      "email": "lucia.ramirez@empresa.com",
+      "position": "Analista de Operaciones",
+      "department": "Operaciones",
+      "salary": 7800,
+      "hireDate": "2023-02-01",
+      "status": "inactive",
+      "role": "employee"
+    },
+    {
+      "id": 6,
+      "name": "Diego Herrera",
+      "email": "diego.herrera@empresa.com",
+      "position": "Ejecutivo de Ventas",
+      "department": "Ventas",
+      "salary": 8200,
+      "hireDate": "2022-11-14",
+      "status": "active",
+      "role": "employee"
+    }
+  ],
+  "vacancies": [
+    {
+      "id": 1,
+      "puesto": "Desarrollador Frontend",
+      "departamento": "Tecnología",
+      "modalidad": "remoto",
+      "salarioOfrecido": 9000,
+      "fechaPublicacion": "2026-09-01",
+      "estado": "abierta",
+      "candidatosPostulados": 12
+    },
+    {
+      "id": 2,
+      "puesto": "Analista Contable",
+      "departamento": "Finanzas",
+      "modalidad": "presencial",
+      "salarioOfrecido": 8500,
+      "fechaPublicacion": "2026-09-05",
+      "estado": "abierta",
+      "candidatosPostulados": 7
+    },
+    {
+      "id": 3,
+      "puesto": "Ejecutivo de Ventas",
+      "departamento": "Ventas",
+      "modalidad": "hibrido",
+      "salarioOfrecido": 7500,
+      "fechaPublicacion": "2026-08-20",
+      "estado": "cerrada",
+      "candidatosPostulados": 20
+    },
+    {
+      "id": 4,
+      "puesto": "Coordinador de Operaciones",
+      "departamento": "Operaciones",
+      "modalidad": "presencial",
+      "salarioOfrecido": 10000,
+      "fechaPublicacion": "2026-09-10",
+      "estado": "abierta",
+      "candidatosPostulados": 3
+    },
+    {
+      "id": 5,
+      "puesto": "Especialista en RRHH",
+      "departamento": "Recursos Humanos",
+      "modalidad": "hibrido",
+      "salarioOfrecido": 8800,
+      "fechaPublicacion": "2026-09-15",
+      "estado": "abierta",
+      "candidatosPostulados": 5
+    }
+  ]
+}
