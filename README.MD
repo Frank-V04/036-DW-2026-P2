@@ -41,4 +41,4 @@ Funcionalidades del módulo de Vacantes
 - Diseño responsivo mobile-first con TailwindCSS
 
 Despliegue
-Enlace: 
+Enlace: https://036-dw-2026-p2.vercel.app/
